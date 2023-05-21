@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { StatisticsWrapper, Text } from '../styled';
+import { StatisticsWrapper, Text } from './StatisticsStyled';
 
 export const Statistics = ({
   good,
